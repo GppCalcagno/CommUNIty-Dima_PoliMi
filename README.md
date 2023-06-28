@@ -59,7 +59,7 @@ Main Features:
 
 ---
 
-###  ::closed_lock_with_key:: API Keys
+###  :closed_lock_with_key: API Keys
 The development of the application required the use of some APIs. The keys used are not present in the repository and they need to be regenerated.
 The APIs key can be generated from the following links:
 - https://www.graphhopper.com/
