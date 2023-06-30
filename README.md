@@ -25,19 +25,16 @@ In the repository are present:
 The idea developed is **CommUNIty**: an application with the aim of gathering together different  aspects of the study life of students. 
 
 <div align="center">
-<img src="https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/79b5401a-cbba-42ac-bb57-28c5df57ebd3" width="275">
+<img src="https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/11273e42-1cf1-41c9-951d-9a7a7c9c499f" width="275">
 </div>
 
 <!--
-![Il mio progetto (3)](https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/79b5401a-cbba-42ac-bb57-28c5df57ebd3)
+
+![Il mio progetto (1)](https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/62128f71-4fd7-44ea-8f2a-eeb1c0ddd68a)
 
 
 -->
 
-
-
-
-Main Features:
 - Login and Registration
 - Subscribe to course
 - Write and share notes or reviews 
@@ -46,15 +43,15 @@ Main Features:
 - Chat with colleagues 
 
 <div align="center">
-<img src="https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/2ddc7f8a-d171-4d11-a62b-4ebec0c23def" width="650">
+<img src="https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/52ed0536-fe30-4e8e-8279-a5701b0a97ef" width="650">
 </div>
 
 <div align="center">
-<img src="https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/bd7b29ca-eb2a-47d2-877a-190a00fa0112" width="650">
+<img src="ttps://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/62128f71-4fd7-44ea-8f2a-eeb1c0ddd68a" width="650">
 </div>
 
 <div align="center">
-<img src="https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/ce2963c6-d986-4845-8b74-be0f636279a6" width="650">
+<img src="https://github.com/GppCalcagno/Design_and_Implementation_of_Mobile_Application-project/assets/94358195/3f3e4aff-bcf7-4d4b-939b-aeec5dc02777" width="650">
 </div>
 
 ---
