@@ -1,4 +1,4 @@
-# :vibration_mode: CommUNIty: Share University Data- Dima Project (PoliMi)
+# :vibration_mode: CommUNIty: Share University Data
 
 This is the repository for the projects of the Design and Implementation of Mobile Application (DIMA) course held at [Polimi](https://www.polimi.it/).
 
